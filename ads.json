@@ -10,15 +10,6 @@
       "body": "Download for free and enjoy the game.",
       "linkUrl": "https://play.google.com/store/apps/details?id=com.infinityoneclassic.app",
       "maxImpressionsPerDevice": 0
-    },
-    {
-      "id": "infinity_one_local_1",
-      "active": false,
-      "imageUrl": "https://infinityone-xi.vercel.app/img/20260407_150152.png",
-      "title": "Infinity one ",
-      "body": "Platformer game",
-      "linkUrl": "https://infinityone-xi.vercel.app/",
-      "maxImpressionsPerDevice": 10
     }
   ]
 }
