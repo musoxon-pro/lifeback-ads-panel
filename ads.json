@@ -3,8 +3,17 @@
   "rotationSeconds": 20,
   "ads": [
     {
-      "id": "infinity_one_local_1",
+      "id": "infinity_one_classic_platformer_2d_game_local_2",
       "active": true,
+      "imageUrl": "https://global-privacy-policy.vercel.app/asset/20261009_195336.png",
+      "title": "Infinity One Classic Platformer 2D Game",
+      "body": "Download for free and enjoy the game.",
+      "linkUrl": "https://play.google.com/store/apps/details?id=com.infinityoneclassic.app",
+      "maxImpressionsPerDevice": 0
+    },
+    {
+      "id": "infinity_one_local_1",
+      "active": false,
       "imageUrl": "https://infinityone-xi.vercel.app/img/20260407_150152.png",
       "title": "Infinity one ",
       "body": "Platformer game",
