@@ -1,0 +1,15 @@
+{
+  "refreshIntervalMinutes": 360,
+  "rotationSeconds": 20,
+  "ads": [
+    {
+      "id": "infinity_one_local_1",
+      "active": true,
+      "imageUrl": "https://infinityone-xi.vercel.app/img/20260407_150152.png",
+      "title": "Infinity one ",
+      "body": "Platformer game",
+      "linkUrl": "https://infinityone-xi.vercel.app/",
+      "maxImpressionsPerDevice": 10
+    }
+  ]
+}
