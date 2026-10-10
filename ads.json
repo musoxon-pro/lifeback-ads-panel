@@ -3,8 +3,17 @@
   "rotationSeconds": 20,
   "ads": [
     {
-      "id": "infinity_one_classic_platformer_2d_game_local_2",
+      "id": "saytchi_shop_build_your_first_website_wi_local_2",
       "active": true,
+      "imageUrl": "",
+      "title": "Saytchi.shop  Build your first website without coding.",
+      "body": "Ready-made templates, free SSL, international payment, and a 7-day free trial. Create a website without coding.",
+      "linkUrl": "https://saytchi.shop/",
+      "maxImpressionsPerDevice": 0
+    },
+    {
+      "id": "infinity_one_classic_platformer_2d_game_local_2",
+      "active": false,
       "imageUrl": "https://global-privacy-policy.vercel.app/asset/20261009_195336.png",
       "title": "Infinity One Classic Platformer 2D Game",
       "body": "Download for free and enjoy the game.",
