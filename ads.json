@@ -4,7 +4,7 @@
   "ads": [
     {
       "id": "saytchi_shop_build_your_first_website_wi_local_2",
-      "active": true,
+      "active": false,
       "imageUrl": "",
       "title": "Saytchi.shop  Build your first website!",
       "body": "Ready-made templates, free SSL, international payment, and a 7-day free trial. Create a website without coding.",
@@ -13,7 +13,7 @@
     },
     {
       "id": "infinity_one_classic_platformer_2d_game_local_2",
-      "active": false,
+      "active": true,
       "imageUrl": "https://global-privacy-policy.vercel.app/asset/20261009_195336.png",
       "title": "Infinity One Classic Platformer 2D Game",
       "body": "Download for free and enjoy the game.",
